@@ -24,7 +24,7 @@ Source: UK Government Data
 1. Understand trends in property usage, values, and types. 🏢📈
 2. Evaluate rate relief distribution and its impact on property values. 🎟️📊
 3. Analyze vacant properties and identify vacancy patterns. 🚪🔍
-4. Examine the relationship between property values, location, and property type. 📍💰
+4. Examine the relationship between property values and property type. 📍💰
 
 ## Key Findings 🔍📊
 🏬 Property Type Trends: High-value properties include Wind Farm and Premises 🌬️ and Superstore and Premises 🏬, while low-value properties include Properties in Disrepair 🏚️ and Property Beyond Economic Repair 🏗️.
