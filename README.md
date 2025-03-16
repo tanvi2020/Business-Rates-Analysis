@@ -21,10 +21,10 @@ Source: UK Government Data
 5. Handled Skewness 📊 Applied log transformation to RV values to normalize distribution.
 
 ## Analysis Goals 🎯
-Goal 1: Understand trends in property usage, values, and types. 🏢📈
-Goal 2: Evaluate rate relief distribution and its impact on property values. 🎟️📊
-Goal 3: Analyze vacant properties and identify vacancy patterns. 🚪🔍
-Goal 4: Examine the relationship between property values, location, and property type. 📍💰
+1. Understand trends in property usage, values, and types. 🏢📈
+2. Evaluate rate relief distribution and its impact on property values. 🎟️📊
+3. Analyze vacant properties and identify vacancy patterns. 🚪🔍
+4. Examine the relationship between property values, location, and property type. 📍💰
 
 ## Key Findings 🔍📊
 🏬 Property Type Trends: High-value properties include Wind Farm and Premises 🌬️ and Superstore and Premises 🏬, while low-value properties include Properties in Disrepair 🏚️ and Property Beyond Economic Repair 🏗️.
